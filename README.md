@@ -4,7 +4,7 @@ Este repositorio contiene la codificación y pruebas de un módulo web independi
 
 ---
 
-## 📌 Datos de la Evidencia
+##  Datos de la Evidencia
 
 * **Programa:** Tecnólogo en Análisis y Desarrollo de Software (ADSO)
 * **Ficha:** 3186654
@@ -15,7 +15,7 @@ Este repositorio contiene la codificación y pruebas de un módulo web independi
 
 ---
 
-## 🚀 Descripción del Proyecto
+##  Descripción del Proyecto
 
 El módulo implementa las tecnologías base de **Jakarta EE** (Servlets + JSP) para gestionar el registro y la consulta de productos en una base de datos MySQL. Se construyó como un proyecto web independiente con arquitectura MVC simplificada (sin ORM ni frameworks adicionales) para aislar la evaluación técnica.
 
@@ -29,7 +29,7 @@ El módulo implementa las tecnologías base de **Jakarta EE** (Servlets + JSP) p
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+##  Tecnologías y Herramientas
 
 | Componente | Tecnología |
 | :--- | :--- |
@@ -44,7 +44,7 @@ El módulo implementa las tecnologías base de **Jakarta EE** (Servlets + JSP) p
 
 ---
 
-## 🗄️ Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```text
 evidencia-servlet-jsp/
