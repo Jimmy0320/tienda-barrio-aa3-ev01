@@ -1,0 +1,20 @@
+REPOSITORIO DEL PROYECTO
+========================
+
+Proyecto     : Tienda Barrio - Backend (Spring Boot)
+Evidencia    : GA7-220501096-AA3-EV01
+Aprendiz     : Jimmy Ramos Martinez
+Ficha        : 3186654
+
+Repositorio GitHub:
+[PEGA AQUÍ el enlace real del repositorio, ej: https://github.com/Jimmy0320/tienda-barrio-backend]
+
+Herramienta de versionamiento: Git / GitHub
+
+Instrucciones para publicarlo (si aún no existe el repo):
+  git init
+  git add .
+  git commit -m "GA7-220501096-AA3-EV01: modulo Productos con Spring Boot + JPA/MySQL"
+  git branch -M main
+  git remote add origin <URL_DE_TU_REPO>
+  git push -u origin main
